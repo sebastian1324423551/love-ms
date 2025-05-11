@@ -10,7 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap"
       rel="stylesheet" />
     <link rel="stylesheet" href="do_you_love_me.css" />
-    <title>Do you love me?</title>
+    <title>DO you love me?</title>
   </head>
   <body>
     <!-- for more code, visit my tiktok account -->
@@ -34,7 +34,7 @@
         async
         src="https://tenor.com/embed.js"></script>
 
-      <h2 class="question">Anny angelica, lista para mañna?</h2>
+      <h2 class="question">anny angelica, lista para mañana?</h2>
       <div class="button-container">
         <button class="yes-btn btn js-yes-btn">Yes</button>
         <button class="no-btn btn js-no-btn">No</button>
@@ -56,3 +56,4 @@
     <script src="do_you_love_me.js"></script>
   </body>
 </html>
+
